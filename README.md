@@ -1,2 +1,2 @@
-# Movies-Desc-Searcher
- Provide Movies Description
+# Movies-Searcher
+ Provide searching title and poster for movies and series
