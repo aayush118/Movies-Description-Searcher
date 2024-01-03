@@ -26,9 +26,9 @@ const App = () => {
         setMovies(data.Search);
     }
     
-    useEffect(() => {
-        searchMovie("across the spider verse ");
-    }, []);
+    // useEffect(() => {
+    //     searchMovie("across the spider verse ");
+    // }, []);
 
     return (
             <div className="app">
